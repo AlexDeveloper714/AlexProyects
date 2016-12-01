@@ -1,0 +1,138 @@
+/App_Sw/build/
+/App_Sw/dist/
+/App_Sw/nbproject/private/
+/Automorfica/build/
+/Automorfica/nbproject/private/
+/Estamparse DB/EstamparseDB/build/
+/Estamparse DB/EstamparseDB/dist/
+/Estamparse DB/EstamparseDB/nbproject/private/
+/Estamparse/build/
+/Estamparse/nbproject/private/
+/Funciones/build/
+/Funciones/nbproject/private/
+/GaleriaDB/build/
+/GaleriaDB/nbproject/private/
+/Numero/build/
+/Numero/dist/
+/Numero/nbproject/private/
+/OperacionesEntreFracciones/build/
+/OperacionesEntreFracciones/nbproject/private/
+/POO Files and Programs/ArreglosObjetos/ArreglosObjetos/build/
+/POO Files and Programs/ArreglosObjetos/ArreglosObjetos/nbproject/private/
+/POO Files and Programs/Ejemplos herencia Fuguras/Ejemplos herencia Fuguras/Figura_Dibujo/nbproject/private/
+/POO Files and Programs/Ejemplos herencia Fuguras/Ejemplos herencia Fuguras/Figurassss/build/
+/POO Files and Programs/Ejemplos herencia Fuguras/Ejemplos herencia Fuguras/Figurassss/nbproject/private/
+/POO Files and Programs/Figura/build/
+/POO Files and Programs/Figura/nbproject/private/
+/POO Files and Programs/Figuras MOD/Ejemplos herencia Fuguras/Figura_Dibujo/build/
+/POO Files and Programs/Figuras MOD/Ejemplos herencia Fuguras/Figura_Dibujo/nbproject/private/
+/POO Files and Programs/Figuras MOD/Ejemplos herencia Fuguras/Figurassss/build/
+/POO Files and Programs/Figuras MOD/Ejemplos herencia Fuguras/Figurassss/nbproject/private/
+/POO Files and Programs/Figuras MOD/Figura/build/
+/POO Files and Programs/Figuras MOD/Figura/nbproject/private/
+/POO Files and Programs/Figuras MOD/Figura_Dib/build/
+/POO Files and Programs/Figuras MOD/Figura_Dib/nbproject/private/
+/POO Files and Programs/JavaApplication1/nbproject/private/
+/POO Files and Programs/Objeto/build/
+/POO Files and Programs/Objeto/nbproject/private/
+/POO Files and Programs/ProyectoPOO/ProyectoPOO/nbproject/private/
+/POO Files and Programs/The Ring of the Photos/The Ring of the Photos/build/
+/POO Files and Programs/The Ring of the Photos/The Ring of the Photos/nbproject/private/
+/POO Files and Programs/calificacion/build/
+/POO Files and Programs/calificacion/nbproject/private/
+/POO Files and Programs/empleado/nbproject/private/
+/POO Files and Programs/empleado_vect/build/
+/POO Files and Programs/empleado_vect/nbproject/private/
+/POO Files and Programs/salario_empleado/build/
+/POO Files and Programs/salario_empleado/dist/
+/POO Files and Programs/salario_empleado/nbproject/private/
+/POO Files and Programs/volumenes_cono_cili/build/
+/POO Files and Programs/volumenes_cono_cili/nbproject/private/
+/ParcialDatos/build/
+/ParcialDatos/nbproject/private/
+/Pila_Vector/build/
+/Pila_Vector/nbproject/private/
+/Prim_Sem_V_Mej/build/
+/Prim_Sem_V_Mej/dist/
+/Prim_Sem_V_Mej/nbproject/private/
+/Prim_Sem_Vect/nbproject/private/
+/Primer Semestre/build/
+/Primer Semestre/dist/
+/Primer Semestre/nbproject/private/
+/Que dia de la semana fue/diaSemana/diaSemana/build/
+/Que dia de la semana fue/diaSemana/diaSemana/nbproject/private/
+/SisNum_2/SisNum_2/build/
+/SisNum_2/SisNum_2/dist/
+/SisNum_2/SisNum_2/nbproject/private/
+/Trabajos Base Datos/Automorfica/build/
+/Trabajos Base Datos/Automorfica/nbproject/private/
+/Trabajos Base Datos/Excepciones/build/
+/Trabajos Base Datos/Excepciones/nbproject/private/
+/Trabajos Base Datos/Funciones/build/
+/Trabajos Base Datos/Funciones/dist/
+/Trabajos Base Datos/Funciones/nbproject/private/
+/Trabajos Base Datos/Matrices/matrices/build/
+/Trabajos Base Datos/Matrices/matrices/nbproject/private/
+/Trabajos Base Datos/Matrices_2/matrices_2/build/
+/Trabajos Base Datos/Matrices_2/matrices_2/nbproject/private/
+/Trabajos Base Datos/Matrices_ING/matrices_2/build/
+/Trabajos Base Datos/Matrices_ING/matrices_2/nbproject/private/
+/Trabajos Base Datos/Recursividad/build/
+/Trabajos Base Datos/Recursividad/nbproject/private/
+/vectores_ej/build/
+/vectores_ej/nbproject/private/
+/POO Files and Programs/Ejemplos herencia Fuguras/Figura_Dibujo/build/
+/POO Files and Programs/Ejemplos herencia Fuguras/Figura_Dibujo/nbproject/private/
+/POO Files and Programs/Ejemplos herencia Fuguras/Figurassss/build/
+/POO Files and Programs/Ejemplos herencia Fuguras/Figurassss/nbproject/private/
+/diaSemana/build/
+/diaSemana/nbproject/private/
+/Funciones/dist/
+/Excepciones/build/
+/Excepciones/nbproject/private/
+/Matrices/matrices/build/
+/Matrices/matrices/nbproject/private/
+/Matrices_2/build/
+/Matrices_2/matrices_2/build/
+/Matrices_2/matrices_2/nbproject/private/
+/Matrices_2/nbproject/private/
+/Recursividad/build/
+/Recursividad/nbproject/private/
+/ArreglosObjetos/build/
+/ArreglosObjetos/nbproject/private/
+/Ejemplos herencia Fuguras/Figura_Dibujo/build/
+/Ejemplos herencia Fuguras/Figura_Dibujo/nbproject/private/
+/Ejemplos herencia Fuguras/Figurassss/build/
+/Ejemplos herencia Fuguras/Figurassss/nbproject/private/
+/Figura/build/
+/Figura/nbproject/private/
+/Figura_Dib/build/
+/Figura_Dib/nbproject/private/
+/Figura_Dibujo/nbproject/private/
+/Figurassss/build/
+/Figurassss/nbproject/private/
+/JavaApplication1/nbproject/private/
+/Objeto/build/
+/Objeto/nbproject/private/
+/ProyectoPOO/nbproject/private/
+/The Ring of the Photos/build/
+/The Ring of the Photos/nbproject/private/
+/calificacion/build/
+/calificacion/nbproject/private/
+/empleado/nbproject/private/
+/empleado_vect/build/
+/empleado_vect/nbproject/private/
+/salario_empleado/build/
+/salario_empleado/dist/
+/salario_empleado/nbproject/private/
+/volumenes_cono_cili/build/
+/volumenes_cono_cili/nbproject/private/
+/EstamparseDB/build/
+/EstamparseDB/dist/
+/EstamparseDB/nbproject/private/
+/Figura_Dibujo/build/
+/Matrices/build/
+/Matrices/nbproject/private/
+/SisNum_2/build/
+/SisNum_2/dist/
+/SisNum_2/nbproject/private/
